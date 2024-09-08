@@ -6,6 +6,7 @@ h1{
 }
 
 h2{
+    color: #333;
     margin-top: 16px;
     margin-left: 16px;
 }
@@ -16,10 +17,13 @@ h6{
 
 p{
     margin: 16px;
+    color: black;
 }
 
 img{
+    width: 20%;
     margin: 16px;
+    border-radius: 26px;
 }
 
 video{
@@ -29,7 +33,7 @@ video{
 
 body {
     background-color: #ffffff;
-    color: rgb(0, 0, 0);
+    color: white;
     font-family: cursive;
     font-size: 18px;
     line-height: 1.6;
